@@ -1,6 +1,15 @@
+@font-face {
+    font-family: 'future_earthregular';
+    src: url('fonts/future_earth_v2-webfont.woff2') format('woff2'),
+         url('fonts/future_earth_v2-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body {
-font-family : 'Future Earth', sans-serif;
 background-color: black;
+font-family: 'future_earthregular', sans-serif;
 } 
 
 header {
@@ -79,7 +88,7 @@ main h3 {
     display: flex;
     gap: 2rem;
     justify-content: center;
-    margin-top: 2.5rem;
+    margin-top: 0.8rem;
 }
 
 .social a {
