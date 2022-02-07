@@ -55,9 +55,6 @@ main h3 {
     color: white;
 }
 
-.link1:hover {
-    background-color: #EC9263;
-}
 
 .link1:active {
     background-color: #AF3C00;
@@ -73,10 +70,6 @@ main h3 {
 .link2 a {
     text-decoration: none;
     color: white;
-}
-
-.link2:hover {
-    background-color: #A6ADC7;
 }
 
 .link2:active {
