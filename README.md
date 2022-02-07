@@ -1,5 +1,5 @@
 # Crave
 Welcome to Crave
 Two playlists wich have been made for you !
-Two differents vibes
+Two differents vibes.
 An unique experience
